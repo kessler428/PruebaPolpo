@@ -44,6 +44,7 @@ h3{
   cursor: pointer;
 }
 .btn{
+  height: 40px;
   padding: 0.3rem;
   font-size: 1rem;
   margin-left: 0.5rem;
