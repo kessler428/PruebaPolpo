@@ -5,12 +5,14 @@ import App from './App.jsx';
 import Joke from './jokesRamdom.jsx';
 import Category from './category';
 import reportWebVitals from './reportWebVitals';
+import Footer from './footer.jsx'
 
 ReactDOM.render(
   <React.StrictMode>
       <App />
       <Joke />
       <Category />
+      <Footer />
   </React.StrictMode>,
   document.getElementById('root')
 );
