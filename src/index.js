@@ -2,8 +2,8 @@ import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
 import App from './App.jsx';
-import Joke from './jokesRamdom.jsx';
-import Category from './category';
+import Joke from './random-joke.jsx';
+import Category from './category-joke';
 import reportWebVitals from './reportWebVitals';
 import Footer from './footer.jsx'
 

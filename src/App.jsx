@@ -15,9 +15,11 @@ export default class Cabecera extends React.Component {
           <h1 className='titulo-principal'>Chuck Norris</h1>
           <h1 className='titulo-secundario'>Jokes Page</h1>
         </div>
-        
-        <p><b>The best page to enjoy and have fun.</b></p>
-        
+        <div>
+          <p>
+            <b>The best page to enjoy and have fun.</b>
+          </p>
+        </div>
         <button className="btn-principal" onClick={this.reload} >Load a random joke</button>
       </header>
     </div>

@@ -2,7 +2,7 @@
   background-image: url(./pantalla\ de\ sistema\ \(1\).jpg);
   background-repeat: no-repeat;
   background-size: cover;
-  padding-bottom: 0.5rem;
+  padding-bottom: 0.4rem;
 }
 .App {
   text-align: center;
@@ -45,6 +45,7 @@ h3{
 }
 .btn{
   height: 40px;
+  width: 73px;
   padding: 0.3rem;
   font-size: 1rem;
   margin-left: 0.5rem;
